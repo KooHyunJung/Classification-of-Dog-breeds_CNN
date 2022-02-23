@@ -12,7 +12,7 @@
 
 <h2> ✅ 팀 구성 </h2>
 <ul>
-<li> 구현정 (https://github.com/KooHyunJung) : Front-end (html/css/javascript), (https://velog.io/@ghj616/HTML-CSS)</li>
+<li> 구현정 (https://github.com/KooHyunJung) : Front-end (html/css/javascript)</li>
 <li> 김동우 (https://github.com/yesmynamedongwoo) : Back-end (CRUD)</li>
 <li> 김시은 (https://github.com/HAPPYHALL) : AI Machine learning (CNN)</li>
 <li> 이민호 (https://github.com/YuMinho915) : AI Machine learning (CNN)</li>
